@@ -1,0 +1,22 @@
+{
+  "name": "silent-clearfix",
+  "version": "0.0.0",
+  "authors": [
+    "nichoth <nichoth@gmail.com>"
+  ],
+  "description": "SASS clearfix silent class",
+  "main": "_silent-clearfix.scss",
+  "keywords": [
+    "sass",
+    "clearfix"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nichoth/silent-clearfix",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
